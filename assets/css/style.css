@@ -1,0 +1,39 @@
+#body {
+    background-color: #131723;
+}
+#clock{
+    height: 100vh;
+}
+
+#test {
+    text-align: center;
+    font-family: serif;
+    color: #fff;
+    letter-spacing: 2px;
+    font-size: 4.4rem;
+    text-shadow: 5px 3px 25px #00DAF7;
+    padding: 5px;
+    border: 2px #00DAF7;
+    border-radius: 30px;
+}
+
+#b1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#ttt {
+    color: #fff;
+    text-align: center;
+    text-shadow: 10px 13px 30px #00DAF7;
+    padding: 5;
+    border: 2px #00DAF7;
+    font-family: serif;
+    border-radius: 30px;
+}
+#all{
+    padding: 5px;
+    border: 5px solid #00DAF7;
+    font-family: serif;
+    border-radius: 10px;
+}
